@@ -17,10 +17,9 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader). <br>
 
-
 ### created
 
-``` 
+``` bash
 # created project, component is small, we can use webpack-simple
 vue init webpack-simple htt-progressbar
 
